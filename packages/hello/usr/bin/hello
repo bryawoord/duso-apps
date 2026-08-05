@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Olá do DusoOS!"
+echo "Primeiro pacote instalado com duso em github"
