@@ -1,5 +1,13 @@
 {
   "repo": "Duso Apps",
   "version": "1.0",
-  "apps": []
+  "apps": [
+    {
+      "name": "hello",
+      "version": "1.0",
+      "arch": "x86_64",
+      "description": "Teste do gerenciador de pacotes",
+      "file": "hello.tar.gz"
+    }
+  ]
 }
