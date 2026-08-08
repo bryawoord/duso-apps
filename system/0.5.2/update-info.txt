@@ -1,2 +1,13 @@
 DusoOS 0.5.2
-Atualização de teste.
+
+Novidades:
+
+- Sistema de atualização incremental
+- Atualização pelo Duso App Manager
+- Atualização sem reinstalação completa do sistema
+- Preservação dos arquivos que não fazem parte da atualização
+
+Melhorias:
+
+- Pacotes de atualização contêm somente arquivos modificados ou adicionados
+- Fastfetch acompanha a versão atual do sistema
